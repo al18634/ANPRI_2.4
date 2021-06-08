@@ -1,0 +1,29 @@
+# MakeHuman exported MTL
+# www.makehumancommunity.org
+
+
+newmtl DefaultSkin
+Kd 0.723 0.5418 0.432
+Ks 0.3 0.3 0.3
+d 1
+
+newmtl Eye_brown
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures/brown_eye.png
+map_D textures/brown_eye.png
+
+newmtl eyebrow003
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures/eyebrow003.png
+map_D textures/eyebrow003.png
+
+newmtl male_casualsuit03
+Kd 1 1 1
+Ks 0.02745 0.02745 0.02745
+d 0
+map_Kd textures/male_casualsuit03_diffuse.png
+map_D textures/male_casualsuit03_diffuse.png
